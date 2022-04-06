@@ -1,2 +1,2 @@
 # react-gsap
-Un proyecto de estudio de react cokn gsap animation
+this project is for the study of react with gsap-animation
